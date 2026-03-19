@@ -2,9 +2,6 @@
 # 🌐 Wuys Edge Manager
 
 > 🚀 An open-source tool to manage Microsoft Edge profiles, track points, and automate your workflow.
-
-![Logo](./logo.png)
-
 ---
 
 ## 🧩 Open Source
